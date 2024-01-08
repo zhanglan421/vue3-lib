@@ -9,6 +9,8 @@
 
 4.npm run dev
 
+
+`
 ---dist 组件库dist
 ---examples 示例
 ---packages 源码
@@ -21,3 +23,4 @@
 ---tsconfig.json 
 ---tsconfig.node.json
 ---vite.config.ts vite配置
+`
